@@ -15,7 +15,7 @@
 - [x] Quickstart + CLI 기본 챕터 읽기 완료
 
 ### 3. 직접 써본 프로젝트 및 작업
-- **사용한 프로젝트:** 
+- **사용한 프로젝트:**
   bradtraversy/50projects50days 레포의 quiz-app 폴더 (https://github.com/bradtraversy/50projects50days/tree/master/quiz-app)
 - **시킨 작업:**
   - Claude Code에게 /init을 실행시켜 프로젝트 구조를 분석한 AGENTS.md 파일을 자동 생성하도록 했습니다.
