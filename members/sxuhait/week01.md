@@ -1,6 +1,7 @@
 <img width="1356" height="1007" alt="스크린샷 2026-07-19 164612" src="https://github.com/user-attachments/assets/b74d2713-24e5-47da-b74c-64aaaebfe38c" />
 <img width="838" height="834" alt="스크린샷 2026-07-19 164636" src="https://github.com/user-attachments/assets/cc8200a1-c023-4f7b-a5cd-7ed2e3440820" />
 <img width="957" height="502" alt="스크린샷 2026-07-19 165411" src="https://github.com/user-attachments/assets/cb0233d4-7862-4509-b2f9-29d1cfdf8cbd" />
+
 # 1주차 과제 제출
 
 ### 1. 체크리스트 진행 상황
