@@ -5,18 +5,18 @@
 # 1주차 과제 제출
 
 ### 1. 체크리스트 진행 상황
-- [o] 설치 & 로그인 완료
-- [o] VS Code 연동 완료
-- [o] CLAUDE.md 생성 완료
-- [o] 첫 대화 & 첫 수정 완료
-- [o] git 커밋 위임 완료
+- [x] 설치 & 로그인 완료
+- [x] VS Code 연동 완료
+- [x] CLAUDE.md 생성 완료
+- [x] 첫 대화 & 첫 수정 완료
+- [x] git 커밋 위임 완료
 
 ### 2. 공식 문서 읽기
-- [o] Quickstart + CLI 기본 챕터 읽기 완료
+- [x] Quickstart + CLI 기본 챕터 읽기 완료
 
 ### 3. 직접 써본 프로젝트 및 작업
-- **사용한 프로젝트:** 
-bradtraversy/50projects50days 레포의 quiz-app 폴더 (https://github.com/bradtraversy/50projects50days/tree/master/todo-list)
+- **사용한 프로젝트:**
+  bradtraversy/50projects50days 레포의 quiz-app 폴더 (https://github.com/bradtraversy/50projects50days/tree/master/quiz-app)
 - **시킨 작업:**
   - Claude Code에게 /init을 실행시켜 프로젝트 구조를 분석한 AGENTS.md 파일을 자동 생성하도록 했습니다.
   - "퀴즈가 끝나면 몇 문제 중 몇 개를 맞췄는지 점수를 화면에 보여주는 기능을 추가해줘"라고 요청해 점수 표시 기능을 추가했습니다.
